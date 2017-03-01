@@ -35,3 +35,5 @@ quitButton = Button(root,
                     command=program_quit)
 
 root.mainloop()
+
+#FORGOT TO PROPERLY DEFINE TOGGLEBUTTON#
